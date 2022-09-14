@@ -20,3 +20,13 @@ p{
     padding: 1rem 2rem;
 }
 
+section{
+    background: tomato;
+    height: 40vh;
+    width: calc(100vw/2);
+}
+.test{
+    background: lightblue;
+    height: 50%;
+    width: 30vw;
+}
