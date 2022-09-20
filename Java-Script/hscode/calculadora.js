@@ -4,3 +4,4 @@ let calc = (x1, x2, operator) => {
 
 let resultado = calc(5, 2,"*");
 console.log(resultado);
+ 
